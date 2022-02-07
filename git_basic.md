@@ -17,7 +17,7 @@ Initializes a brand new Git repository and begins tracking an existing directory
 ### `add`
 Performs 'staging', the first part of that two-step process.
 
-Staging and committing separately gives dvelopers complete control over the history of their project
+Staging and committing separately gives developers complete control over the history of their project
 without changing how they code and work.
 
 ```bash
